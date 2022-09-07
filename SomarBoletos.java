@@ -1,4 +1,4 @@
-package somarboletos;
+package aulasuna;
 import java.util.*;
 public class SomarBoletos {
 
